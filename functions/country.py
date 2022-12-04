@@ -11,6 +11,8 @@ for country in countries_names:
     print(country, capital_temp)
 
 
+# Good job ! I will work on it this week and show you a new proposal next weekend
+    
 #countries = country_capital(country,capital)
 #print(countries)
 #countries = {"spain" : "madrid", "the czech republic" : "prague"
